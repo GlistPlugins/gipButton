@@ -28,3 +28,6 @@ void GameCanvas::draw() {
 }
 
 8. Listen and process the clicks in your callback function
+
+## Licence
+MIT
