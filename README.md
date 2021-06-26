@@ -1,10 +1,10 @@
 # gipButton
 A blue button plugin for GlistEngine
 
-INSTALLATION
+## Installation
 Fork & clone this project into ~/dev/glist/glistplugins
 
-USAGE
+## Usage
 1. Add gipButton into plugins of your GlistApp/CMakeLists.txt
 
 2. Include gipButton.h in GameCanvas.h
