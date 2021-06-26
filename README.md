@@ -31,4 +31,4 @@ Fork & clone this project into ~/dev/glist/glistplugins
 8. Listen and process the clicks in your callback function
 
 ## Plugin Licence
-MIT
+Apache 2
