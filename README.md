@@ -1,5 +1,5 @@
 # gipButton
-A blue button plugin for GlistEngine
+This GlistEngine plugin draws a blue button on the screen with the given coordinates. The button sends the clicks to a callback function for further processes.
 
 ## Installation
 Fork & clone this project into ~/dev/glist/glistplugins
